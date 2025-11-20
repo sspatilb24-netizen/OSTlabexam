@@ -19,5 +19,5 @@ cout<<"Grade:C"<<endl;
 else if (marks>=35 && marks<40)
 cout<<"Grade:D"<<endl;
 else
-cout<<"Pass"
+cout<<"Pass"<<endl;
 }
